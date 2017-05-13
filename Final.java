@@ -14,7 +14,6 @@ public class Final{
 		String[] string_arr1 = string1Final.split("");
 		String[] string_arr2 = string2Final.split("");
 		
-		
 		//Creating 2x2 matrix to hold sequences and scores
 		Object[][] matrix = new Object[string_arr1.length + 2][string_arr2.length + 2];
 		Object[][] matrix2 = new Object[string_arr1.length + 2][string_arr2.length + 2];
